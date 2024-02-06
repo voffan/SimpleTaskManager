@@ -46,5 +46,10 @@ namespace Tests
             Assert.AreEqual(fromDB.CloseDate, testTime);
             Assert.AreEqual(fromDB.Status, TaskStatus.Created);
         }
+
+        public void f()
+        {
+
+        }
     }
 }
